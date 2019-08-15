@@ -11,7 +11,7 @@
 
 參考：(Anaconda中ImportError: No module named 'matplotlib' 问题的解决) https://blog.csdn.net/yangzijiang666/article/details/79695938
 
-步驟：
+解決步驟：
 
 1.	開啟Anaconda Navigator
 2.	選擇所在環境
