@@ -1,7 +1,10 @@
 # DCGAN
-參考影片：https://www.youtube.com/watch?v=thr7KldvpPw 
+參考影片：https://www.youtube.com/watch?v=thr7KldvpPw
+
 參考github：https://github.com/DLangerr/dcgan-mnist-tensorflow 
+
 錯誤
+
 1. No module named 'matplotlib'
 解決方法(測試)：安裝matplotlib
 參考：(Anaconda中ImportError: No module named 'matplotlib' 问题的解决) https://blog.csdn.net/yangzijiang666/article/details/79695938
